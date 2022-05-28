@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<h1>Simulação com Arduino em Semáforo </h1>
 
-You can use the [editor on GitHub](https://github.com/maiarafag/simulacao-arduino-semaforo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p>Simulação com Arduino Uno R3 para Semáforo </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Sobre
+<p>Projeto de simulação de Arduino com o TinkerCAD </p>
 
-### Markdown
+# Objetivo
+<p>
+ Mostrar o funcionamento do Circuito Semáforo
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Tecnologias
+<p>Foi usado na construção do projeto:
 
-```markdown
-Syntax highlighted code block
+- [C](https://www.w3schools.com/c/)
 
-# Header 1
-## Header 2
-### Header 3
+</p>
 
-- Bulleted
-- List
+# Pre-requisitos
+<p>Antes de começar, você vai precisar ter uma conta na Plataforma TinkerCAD. Depois vá em Circuitos e crie um novo:
 
-1. Numbered
-2. List
+### <img align="center" alt="Maiara-Arduino" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> Elementos do Projeto:
+  
+- 1 Arduino Uno R3  
+- 1 Placa de Ensaio pequena (Protoboard)
+- 1 Led Vermelho, 1 Led Amarelo e 1 Led Verde
+- 3 Resistores de 160 Ohms cada
+  
 
-**Bold** and _Italic_ and `Code` text
+</p>
 
-[Link](url) and ![Image](src)
-```
+# Resultado
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maiarafag/simulacao-arduino-semaforo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h1 align="center">
+  <img alt="Semáforo" title="#Semáforo" src="./Gif/semaforo gif.gif" />
+</h1>
