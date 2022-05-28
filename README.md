@@ -1,16 +1,6 @@
-<h1 align="center">Simulação com Arduino em Semáforo </h1>
+<h1>Simulação com Arduino em Semáforo </h1>
 
-<p align="center">Simulação com Arduino Uno R3 para Semáforo </p>
-
-
-<p align="center"> 
- <a href="#sobre">Sobre</a> •
- <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#pre-requisitos">Pré Requisitos</a> • 
- <a href="#demonstracao">Demonstração</a>
- 
-</p>
+<p>Simulação com Arduino Uno R3 para Semáforo </p>
 
 # Sobre
 <p>Projeto de simulação de Arduino com o TinkerCAD </p>
@@ -40,7 +30,7 @@
 
 </p>
 
-# Demonstracao
+# Resultado
 
 <h1 align="center">
   <img alt="Semáforo" title="#Semáforo" src="./Gif/semaforo gif.gif" />
